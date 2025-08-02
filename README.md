@@ -42,6 +42,12 @@
 
 
 
+📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutham-007&layout=compact&theme=github_dark" width="48%" />
+</p>
+
 ⚡ Fun Fact
 
 > I love turning ideas into working code — and I enjoy learning new tech by building real applications with it!
